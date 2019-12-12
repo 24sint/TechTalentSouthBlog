@@ -1,0 +1,37 @@
+body{
+	background-color: #0B4C5F;
+}
+
+.container{
+	background-color: rgba(255, 255, 255, 0.8);
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px; 
+	width: 50%;
+}
+h1{
+	font-size: 24px;
+	text-align: center;
+}
+.navbar{
+	background-color: #555;
+}
+.btn-primary{
+	margin-left: 110px;
+}
+.navbar-default .navbar-nav>li>a{
+	color: white;
+}
+.navbar-default .navbar-nav>li>a:hover{
+	color: lightblue;
+}
+.navbar-default .navbar-nav>.active>a {
+	background-color: lightblue;
+	
+}
+.my-img{
+	width: 30px;
+	border-radius: 50%;
+	margin-bottom: 20px;
+}
